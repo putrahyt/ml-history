@@ -4,6 +4,7 @@ const matches = [
   { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '21:33', mvp: 'ssy.rl', kda: '15/2/4'   },
   { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '11:51', mvp: 'ssy.rl', kda: '10/2/7'  },
   { result: 'win', hero: 'Minotaur', mode: 'Ranked', duration: '14:31', mvp: 'ERAYA',  kda: '2/2/14'   },
+  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '12:42', mvp: 'PHP ARTISAN SERVE',  kda: '8/0/7'   },
 ];
 
 let activeFilter = 'all';
