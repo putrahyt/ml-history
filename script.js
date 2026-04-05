@@ -1,10 +1,15 @@
 const matches = [
-  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '13:26', mvp: 'ssy.rl', kda: '6/0/6'  },
-  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '14:23', mvp: 'ssy.rl', kda: '11/1/3'  },
-  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '21:33', mvp: 'ssy.rl', kda: '15/2/4'   },
-  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '11:51', mvp: 'ssy.rl', kda: '10/2/7'  },
-  { result: 'win', hero: 'Minotaur', mode: 'Ranked', duration: '14:31', mvp: 'ERAYA',  kda: '2/2/14'   },
-  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '12:42', mvp: 'PHP ARTISAN SERVE',  kda: '8/0/7'   },
+  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '13:26', mvp: 'ssy.rl', kda: '6/0/6' },
+  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '14:23', mvp: 'ssy.rl', kda: '11/1/3' },
+  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '21:33', mvp: 'ssy.rl', kda: '15/2/4' },
+  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '11:51', mvp: 'ssy.rl', kda: '10/2/7' },
+  { result: 'win', hero: 'Minotaur', mode: 'Ranked', duration: '14:31', mvp: 'ERAYA',  kda: '2/2/14' },
+  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '12:42', mvp: 'PHP ARTISAN SERVE',  kda: '8/0/7' },
+  { result: 'lose', hero: 'Minotaur', mode: 'Ranked', duration: '13:55', mvp: 'ERAYA',  kda: '3/5/4' },
+  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '16:12', mvp: 'PHP ARTISAN SERVE',  kda: '14/2/2' },
+  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '10:52', mvp: 'PHP ARTISAN SERVE',  kda: '12/0/3' },
+  { result: 'lose', hero: 'Claude', mode: 'Ranked', duration: '15:19', mvp: 'KykhrlazZ 969',  kda: '13/5/3' },
+  { result: 'lose', hero: 'Julian', mode: 'Ranked', duration: '14:03', mvp: 'PHP ARTISAN SERVE',  kda: '11/2/2' },
 ];
 
 let activeFilter = 'all';
