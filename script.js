@@ -21,6 +21,8 @@ const matches = [
   { result: 'lose', hero: 'Minotaur', mode: 'Ranked', duration: '16:04', mvp: 'ERAYA',  kda: '1/5/12' },
   { result: 'win', hero: 'Minotaur', mode: 'Ranked', duration: '11:38', mvp: 'ERAYA',  kda: '1/0/12' },
   { result: 'lose', hero: 'Julian', mode: 'Ranked', duration: '18:11', mvp: 'ssy.rl',  kda: '15/4/4' },
+  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '13:29', mvp: 'ssy.rl',  kda: '7/1/16' },
+  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '14:05', mvp: 'ssy.rl',  kda: '10/0/9' },
 ];
 
 let activeFilter = 'all';
