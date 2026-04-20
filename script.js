@@ -31,7 +31,6 @@ const matches = [
   { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '20:06', mvp: 'ssy.rl',  kda: '15/3/13' },
   { result: 'lose', hero: 'Hanabi', mode: 'Ranked', duration: '14:42', mvp: 'ALEX_ID',  kda: '5/3/1' },
   { result: 'win', hero: 'Suyou', mode: 'Ranked', duration: '15:56', mvp: 'ssy.rl',  kda: '19/3/2' },
-  { result: 'win', hero: 'Suyou', mode: 'Ranked', duration: '15:56', mvp: 'ssy.rl',  kda: '19/3/2' },
   { result: 'win', hero: 'Baxia', mode: 'Ranked', duration: '25:35', mvp: 'ssy.rl',  kda: '7/2/19' },
 ];
 
