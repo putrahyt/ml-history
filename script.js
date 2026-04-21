@@ -32,8 +32,8 @@ const matches = [
   { result: 'lose', hero: 'Hanabi', mode: 'Ranked', duration: '14:42', mvp: 'ALEX_ID',  kda: '5/3/1' },
   { result: 'win', hero: 'Suyou', mode: 'Ranked', duration: '15:56', mvp: 'ssy.rl',  kda: '19/3/2' },
   { result: 'win', hero: 'Baxia', mode: 'Ranked', duration: '25:35', mvp: 'ssy.rl',  kda: '7/2/19' },
-  { result: 'lose', hero: '-', mode: 'Ranked', duration: '13:46', mvp: 'No MVP',  kda: '0' },
-  { result: 'win', hero: 'Irithel', mode: 'Ranked', duration: '15:16', mvp: 'D'O#',  kda: '6/2/7' },
+  { result: 'lose', hero: '-', mode: 'Ranked', duration: '13:46', mvp: 'No MVP',  kda: '-' },
+  { result: 'win', hero: 'Irithel', mode: 'Ranked', duration: '15:16', mvp: "D'O#",  kda: '6/2/7' },
   { result: 'lose', hero: 'Suyou', mode: 'Ranked', duration: '21:58', mvp: 'PHP ARTISAN SERVE',  kda: '15/7/7' },
   { result: 'win', hero: 'Zetian', mode: 'Ranked', duration: '13:29', mvp: 'ssy.rl',  kda: '6/0/14' },
 ];
