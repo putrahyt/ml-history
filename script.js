@@ -40,6 +40,11 @@ const matches = [
   { result: 'lose', hero: 'Gusion', mode: 'Ranked', duration: '11:33', mvp: 'KAI',  kda: '3/2/5' },
   { result: 'lose', hero: '-', mode: 'Ranked', duration: '11:46', mvp: 'No MVP',  kda: '-' },
   { result: 'win', hero: 'Minotaur', mode: 'Ranked', duration: '15:08', mvp: 'ERAYA',  kda: '3/5/14' },
+  { result: 'lose', hero: 'Minotaur', mode: 'Ranked', duration: '22:24', mvp: 'PHP ARTISAN SERVE',  kda: '1/4/20' },
+  { result: 'win', hero: 'Minotaur', mode: 'Ranked', duration: '15:26', mvp: 'ERAYA',  kda: '3/5/13' },
+  { result: 'win', hero: 'Julian', mode: 'Ranked', duration: '21:30', mvp: 'ssy.rl',  kda: '10/3/6' },
+  { result: 'win', hero: 'Lylia', mode: 'Ranked', duration: '14:58', mvp: 'ERAYA',  kda: '9/1/13' },
+  { result: 'lose', hero: '-', mode: 'Ranked', duration: '13:02', mvp: 'No MVP',  kda: '-' },
 ];
 
 let activeFilter = 'all';
